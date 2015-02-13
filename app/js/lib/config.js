@@ -55,7 +55,8 @@ Config.I18n = {
     ,"it-it"
     ,"nl-nl"
     ,"pt-br"
-    // ,"ru-ru"
+    ,"ru-ru"
+    ,"zh-tw"
   ], // To be copied to package.json
   languages: {
     'en-us': 'English',
@@ -64,7 +65,8 @@ Config.I18n = {
     'it-it': 'Italiano',
     'ru-ru': 'Русский',
     'nl-nl': 'Nederlands',
-    'pt-br': 'Português (Brazil)'
+    'pt-br': 'Português (Brazil)',
+    'zh-tw': 'Traditional Chinese'
   },
   aliases: {
     'en': 'en-us',
