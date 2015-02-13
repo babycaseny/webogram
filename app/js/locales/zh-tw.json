@@ -1,7 +1,7 @@
 {
 	"modal_search": "Search",
 	"modal_close": "Close",
-  "modal_edit": "編輯",
+	"modal_edit": "編輯",
 	"modal_cancel": "取消",
 	"modal_more": "More...",
 	"modal_next": "Next",
@@ -17,14 +17,14 @@
 	"group_modal_update_photo": "Update photo",
 	"group_modal_update_active": "Updating",
 	"group_modal_menu_more": "More",
-	"group_modal_menu_delete_photo": "Delete photo",
+	"group_modal_menu_delete_photo": "刪除相片",
 	"group_modal_menu_edit_group": "編輯群組",
 	"group_modal_menu_leave": "Leave",
 	"group_modal_menu_delete_chat": "Delete chat",
 	"group_modal_settings": "Settings",
 	"group_modal_notifications": "Notifications",
-	"group_modal_members": "Members",
-	"group_modal_members_kick": "Remove",
+	"group_modal_members": "成員",
+	"group_modal_members_kick": "移除",
 
 	"country_select_modal_title": "國家",
 
