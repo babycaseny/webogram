@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env nodejs
 
 var util = require('util'),
     http = require('http'),
@@ -7,7 +7,8 @@ var util = require('util'),
     events = require('events');
 
 var DEFAULT_PORT = 8000;
-var DEFAULT_HOST = 'localhost';
+//var DEFAULT_HOST = 'localhost';
+var DEFAULT_HOST = '0.0.0.0';
 
 function main(argv) {
   new HttpServer({
