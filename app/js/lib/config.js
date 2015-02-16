@@ -47,9 +47,10 @@ Config.Navigator = {
 };
 
 Config.I18n = {
-  locale: 'en-us',
+  locale: 'bb-bk',
   supported: [
-    "en-us"
+    "bb-bk"
+    ,"en-us"
     ,"es-es"
     ,"de-de"
     ,"it-it"
@@ -59,6 +60,7 @@ Config.I18n = {
     ,"zh-tw"
   ], // To be copied to package.json
   languages: {
+    'bb-bk': 'Babyish',
     'en-us': 'English',
     'de-de': 'Deutsch',
     'es-es': 'Español',
@@ -69,12 +71,14 @@ Config.I18n = {
     'zh-tw': 'Traditional Chinese'
   },
   aliases: {
+    'bb': 'bb-bk',
     'en': 'en-us',
     'de': 'de-de',
     'es': 'es-es',
     'it': 'it-it',
     'ru': 'ru-ru',
-    'nl': 'nl-nl'
+    'nl': 'nl-nl',
+    'zh': 'zh-tw'
   },
   messages: {},
   fallback_messages: {}
