@@ -26,13 +26,13 @@ $provide.value("$locale", {
       "PM"
     ],
     "DAY": [
-      "Sunday",
-      "Monday",
-      "Tuesday",
-      "Wednesday",
-      "Thursday",
-      "Friday",
-      "Saturday"
+      "Sùndei",
+      "Mundei",
+      "Fodei",
+      "Suidei",
+      "Mukdei",
+      "Gùmdei",
+      "Toudei"
     ],
     "MONTH": [
       "January",
