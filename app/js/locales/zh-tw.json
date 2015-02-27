@@ -43,6 +43,7 @@
     "settings_modal_sounds": "聲音",
     "settings_modal_language": "語言",
     "settings_modal_notifications": "桌面通知",
+    "settings_modal_message_preview": "Message Preview",
     "settings_modal_sound": "聲音",
     "settings_modal_enter_send_description_md": "**Enter** - 傳送訊息, **Shift + Enter** - 換行",
     "settings_modal_ctrl_enter_send_description_md": "**Ctrl + Enter** - 傳送訊息, **Enter** - 換行",
@@ -59,6 +60,7 @@
     "profile_edit_last_name": "姓氏",
     "profile_edit_submit": "儲存",
     "profile_edit_submit_active": "儲存中...",
+
 
 	"username_edit_modal_title": "變更使用者",
 	"username_edit_placeholder": "使用者",
@@ -205,6 +207,7 @@
 	"conversation_kicked_user": "removed {user}",
 	"conversation_invited_user_message": "invited user",
 	"conversation_kicked_user_message": "removed user",
+	"conversation_message_sent": "sent you a message",
 
 	"conversation_unknown_user": "Somebody",
 	"conversation_unknown_chat": "Unknown chat",
